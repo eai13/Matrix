@@ -1,0 +1,9 @@
+Matrix Library
+Originally designed for code practicing
+
+v0.1:
+	Matrix addition (overloaded +)
+	Matrix subtraction (overloaded -)
+	Matrix product (overloaded *)
+	Matrix input (overloaded >>)
+	Matrix output (overloaded <<)
